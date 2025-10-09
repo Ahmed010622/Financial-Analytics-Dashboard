@@ -54,7 +54,8 @@ It focuses on understanding **customer activity, fraud trends, debt exposure, an
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Preview](Visuals)
+![Dashboard Preview](Financial-Analytics-Dashboard/Visuals
+/finanial overview.png)
 
 ---
 
